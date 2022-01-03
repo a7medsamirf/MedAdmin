@@ -26,7 +26,6 @@
         </v-list-item>
 
       </v-list>
-      <nav-menu-section-title title="USER INTERFACE">USER INTERFACE</nav-menu-section-title>
 
       <v-list>
         <v-list-group
